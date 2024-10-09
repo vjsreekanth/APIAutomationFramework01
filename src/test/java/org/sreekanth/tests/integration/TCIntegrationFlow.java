@@ -1,2 +1,4 @@
-package org.sreekanth.tests.integration;public class TCIntegrationFlow {
+package org.sreekanth.tests.integration;
+
+public class TCIntegrationFlow {
 }
